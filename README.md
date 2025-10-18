@@ -33,7 +33,12 @@ UTN TUPAD
 ### TP7
 
     Carpeta Practica7
+        1. Vehiculo.
+        2. Figuras.
+        3. Empleado.
+        4. Animales.
     
 ### TP8
 
-    Carpeta Practica8
+    Carpeta Practica8.
+    

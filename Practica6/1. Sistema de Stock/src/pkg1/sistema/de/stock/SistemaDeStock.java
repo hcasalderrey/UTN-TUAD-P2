@@ -15,7 +15,7 @@ public class SistemaDeStock {
      */
     public static void main(String[] args) {
         
-Inventario inventario = new Inventario();
+        Inventario inventario = new Inventario();
 
         //Crear al menos cinco productos con distintas categorías.
         Producto p1 = new Producto("P001", "Arroz", 1200, 50, CategoriaProducto.ALIMENTOS);
